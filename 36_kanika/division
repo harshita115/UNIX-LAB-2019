@@ -1,0 +1,5 @@
+#!/bin/sh
+read a
+read b
+divison=`expr $b / $a`
+echo "Total value : $division"

@@ -1,0 +1,5 @@
+#!/bin/sh
+read a
+read b
+multiplication=`expr $a \* $b`
+echo "Total value : $multiplication" 

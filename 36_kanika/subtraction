@@ -1,0 +1,5 @@
+#!/bin/sh
+read a
+read b
+subtraction=`expr $a - $b`
+echo "Total value : $subtraction"
