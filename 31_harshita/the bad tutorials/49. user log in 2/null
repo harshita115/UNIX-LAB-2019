@@ -1,0 +1,1 @@
+newuser:x:1001:1001:newuser,,,:/home/newuser:/bin/bash
